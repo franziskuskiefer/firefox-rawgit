@@ -1,0 +1,16 @@
+{
+  "title": "RawGit",
+  "name": "rawgit",
+  "version": "0.0.2",
+  "description": "Adding a button to github to open files on rawgit",
+  "main": "index.js",
+  "author": "Franziskus Kiefer",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
